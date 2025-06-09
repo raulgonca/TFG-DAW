@@ -15,7 +15,6 @@ Una plataforma moderna para la gestión eficiente de proyectos, donde los usuari
 - Gestión de proyectos: creación, edición, asignación de clientes y colaboradores
 - Gestión de clientes: CRUD, importación/exportación CSV
 - Gestión de usuarios: roles, edición, exportación CSV
-- Valoración y reseñas de proyectos (opcional)
 - Seguimiento y colaboración entre usuarios
 - Panel de administración para usuarios con rol admin
 - Subida, descarga y gestión de archivos por proyecto
@@ -69,7 +68,6 @@ ProjectSync/
 ### Requisitos previos
 
 - Docker y Docker Compose
-- Node.js 18 o superior
 - PHP 8.2 o superior
 - Composer
 
